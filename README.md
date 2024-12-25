@@ -45,6 +45,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Testing APIs in Postman
+
+Once all the npm packages are installed, create a userlist database in MongoDB. Ensure that the MongoDB connection URL is properly specified in the .env file. After completing these steps, you can proceed to test the APIs using Postman. Please refer the controller for endpoint urls.
+
 ## Run tests
 
 ```bash
